@@ -47,22 +47,6 @@ I'm especially interested in how data can be transformed into meaningful insight
 
 ---
 
-## 🎀 Projects
-
-✨ **Projects coming soon...**
-
-I'm currently working on building projects in Python, SQL, data analysis, databases, and data visualisation.
-
----
-
-## 🎓 Education
-
-**University of Pretoria**  
-Bachelor of Information Science (BIS)  
-📅 2025 – Present
-
----
-
 ## 🌷 My Goals
 
 🎯 Build a strong data science portfolio  
