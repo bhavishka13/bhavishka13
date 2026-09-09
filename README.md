@@ -1,6 +1,6 @@
 # 🎀 Hi, I'm Bhavishka! ♡
 
-🎓 **BIS Information Science Student** at the University of Pretoria  
+🎓 **BIS Information Science Student at the University of Pretoria** 
 📊 **Aspiring Data Scientist**  
 🐍 **Python** | 🗄️ **SQL** | 📈 **Data Analytics** | 🤖 **Machine Learning**
 
