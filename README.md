@@ -27,7 +27,7 @@ I'm especially interested in how data can be transformed into meaningful insight
 ### 📊 Data & Visualisation
 - Data Analysis
 - Data Visualisation
-- 📗 Excel
+- Excel
 
 ### 🗃️ Other
 - Databases
